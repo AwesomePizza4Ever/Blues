@@ -1,0 +1,19 @@
+h1 {
+    color:#33b2f2;
+    background: black;
+}
+h2 {
+    color:#2381d9;
+    background: black;
+}
+
+body {
+    background-color:black
+}
+
+.font {
+  font-family: "Dancing Script", cursive;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+}
